@@ -159,7 +159,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output  :
 <img width="500" height="557" alt="image" src="https://github.com/user-attachments/assets/de8f2f89-162f-4ba1-b297-993f5c57a5e7" />
 
-<img width="450" height="557" alt="image" src="https://github.com/user-attachments/assets/983eb7cb-67e1-42eb-9a98-25149c80dd78" />
+<img width="500" height="557" alt="image" src="https://github.com/user-attachments/assets/b7757f5c-361d-4131-9fe6-1c27143ce112"/>
+
+
  
 ## layout of the circuit :
 <img width="1247" height="880" alt="image" src="https://github.com/user-attachments/assets/6631d13a-7a1e-4238-8bcd-b634104e0528" />
